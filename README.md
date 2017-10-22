@@ -3,7 +3,7 @@ Single-page application at [forging.space/theatre](https://forging.space/theatre
 
 Uses Bootstrap [agency](https://startbootstrap.com/template-overviews/agency/) theme
 
-## Most recent shows, listed on website
+## Complete list of shows
 * The Musical of Musicals (The Musical!) (Jidder)
 * Miracle on 34th Street (Baxter Greenstreet)
 * Promises, Promises (Vanderhof)
