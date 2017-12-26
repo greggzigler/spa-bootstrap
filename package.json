@@ -6,7 +6,7 @@
   "author": "Start Bootstrap",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/greggzigler/spa-bootstrap/blob/gh-pages/LICENSE"
+    "url": "https://github.com/greggzigler/spa-bootstrap/blob/master/LICENSE"
   },
   "scripts": {
     "start": "node_modules/gulp/bin/gulp.js dev"
