@@ -11,18 +11,20 @@
   "scripts": {
     "start": "node_modules/gulp/bin/gulp.js dev"
   },
+  "dependencies": {
+    "bootstrap": "4.0.0",
+    "font-awesome": "4.7.0",
+    "jquery": "3.3.0",
+    "jquery.easing": "^1.4.1"
+  },
   "devDependencies": {
-    "bootstrap": "^3.3.7",
-    "browser-sync": "^2.13.0",
-    "font-awesome": "^4.6.3",
+    "browser-sync": "2.23.5",
     "gulp": "^3.9.1",
-    "gulp-clean-css": "^2.0.10",
-    "gulp-header": "^1.8.7",
-    "gulp-less": "^3.1.0",
+    "gulp-clean-css": "3.9.2",
+    "gulp-header": "2.0.1",
     "gulp-rename": "^1.2.2",
-    "gulp-sass": "^2.3.2",
-    "gulp-uglify": "^1.5.4",
-    "jquery": "^1.11.3"
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "3.0.0"
   },
   "repository": {
     "type": "git",
