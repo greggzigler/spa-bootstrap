@@ -1,5 +1,5 @@
 # spa-bootstrap
-Single-page application at [forging.space/theatre](https://forging.space/theatre/)
+Single-page application at [forging.space/theatre](https://forging.space/theatre/) and [github.io](https://greggzigler.github.io/spa-bootstrap/)
 
 Uses Bootstrap [agency](https://startbootstrap.com/template-overviews/agency/) theme
 
