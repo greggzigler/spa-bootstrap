@@ -12,9 +12,9 @@
     "start": "node_modules/gulp/bin/gulp.js dev"
   },
   "dependencies": {
-    "bootstrap": "4.1.2",
-    "font-awesome": "4.7.0",
-    "jquery": "3.3.1",
+    "bootstrap": "^5.1.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.6.0",
     "jquery.easing": "^1.4.1"
   },
   "devDependencies": {
